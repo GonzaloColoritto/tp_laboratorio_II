@@ -1,0 +1,63 @@
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.exe
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.deps.json
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.json
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.dev.json
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\bin\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.FormCalculadora.resources
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfoInputs.cache
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfo.cs
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.genruntimeconfig.cache
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CopyComplete
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.exe
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.deps.json
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.json
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.dev.json
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\bin\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.FormCalculadora.resources
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfoInputs.cache
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfo.cs
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CopyComplete
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.genruntimeconfig.cache
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.exe
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.deps.json
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.json
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.dev.json
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\bin\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.FormCalculadora.resources
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfoInputs.cache
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfo.cs
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CopyComplete
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.genruntimeconfig.cache
