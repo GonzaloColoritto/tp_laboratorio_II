@@ -1,0 +1,12 @@
+C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2E.TpFinal\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2E.TpFinal\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2E.TpFinal\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2E.TpFinal\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2E.TpFinal\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2E.TpFinal\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2E.TpFinal\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2E.TpFinal\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2E.TpFinal\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2E.TpFinal\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2E.TpFinal\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2E.TpFinal\Entidades\obj\Debug\net5.0\Entidades.pdb

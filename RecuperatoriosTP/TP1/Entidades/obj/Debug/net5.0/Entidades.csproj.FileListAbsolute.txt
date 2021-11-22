@@ -1,0 +1,48 @@
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Gonza\Desktop\TPS LAB II\TP1_Coloritto_2E\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Colegio\Desktop\Facultad\TP1_Coloritto_2E\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Gonza\Desktop\TPS LAB II\TP1\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Gonza\Desktop\TPS LAB II\RecuperatoriosTP\TP1\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Gonza\Desktop\TPS LAB II\RecuperatoriosTP\TP1\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Gonza\Desktop\TPS LAB II\RecuperatoriosTP\TP1\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Gonza\Desktop\TPS LAB II\RecuperatoriosTP\TP1\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Gonza\Desktop\TPS LAB II\RecuperatoriosTP\TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Gonza\Desktop\TPS LAB II\RecuperatoriosTP\TP1\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonza\Desktop\TPS LAB II\RecuperatoriosTP\TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Gonza\Desktop\TPS LAB II\RecuperatoriosTP\TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Gonza\Desktop\TPS LAB II\RecuperatoriosTP\TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Desktop\TPS LAB II\RecuperatoriosTP\TP1\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Gonza\Desktop\TPS LAB II\RecuperatoriosTP\TP1\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Gonza\Desktop\TPS LAB II\RecuperatoriosTP\TP1\Entidades\obj\Debug\net5.0\Entidades.pdb
